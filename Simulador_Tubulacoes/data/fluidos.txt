@@ -1,0 +1,57 @@
+Para incluir um novo material basta seguir o padrao apresentado na lista abaixo, o programa retira os dados quando inicializado ou quando requisitado.
+
+fluido = "Alcool Etilico";
+viscosidade = "0.000248";
+massa_especifica = "789";
+
+fluido = "Acetona";
+viscosidade = "0.000326";
+massa_especifica = "790";
+
+fluido = "Metanol";
+viscosidade = "0.000597";
+massa_especifica = "790";
+
+fluido = "Alcool Propilico";
+viscosidade = "0.002256";
+massa_especifica = "786";
+
+fluido = "Benzeno";
+viscosidade = "0.000640";
+massa_especifica = "877";
+
+fluido = "Agua";
+viscosidade = "0.001003";
+massa_especifica = "1000";
+
+fluido = "Mercurio";
+viscosidade = "0.017";
+massa_especifica = "13600";
+
+fluido = "Acido Sulfurico";
+viscosidade = "0.030";
+massa_especifica = "1836";
+
+fluido = "Oleo de oliva";
+viscosidade = "0.081";
+massa_especifica = "920";
+
+fluido = "Oleo de ricino";
+viscosidade = "0.985";
+massa_especifica = "970";
+
+fluido = "Glicerol";
+viscosidade = "1.485";
+massa_especifica = "1261";
+
+fluido = "Polimero Derretido";
+viscosidade = "10000";
+massa_especifica = "1050";
+
+fluido = "Piche";
+viscosidade = "10000000";
+massa_especifica = "949";
+
+fluido = "Sangue";
+viscosidade = "0.004";
+massa_especifica = "1054";

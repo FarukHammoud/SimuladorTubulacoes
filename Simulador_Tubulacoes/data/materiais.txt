@@ -1,0 +1,30 @@
+Para incluir um novo material basta seguir o padrao apresentado na lista abaixo, o programa retira os dados quando inicializado ou quando requisitado.
+
+//em metros 
+
+material = "Aco Rebitado";
+rugosidade = "0.00485";
+
+material = "Concreto";
+rugosidade = "0.00165";
+
+material = "Madeira";
+rugosidade = "0.00055";
+
+material = "Ferro Fundido";
+rugosidade = "0.00026";
+
+material = "Ferro Galvanizado";
+rugosidade = "0.00015";
+
+material = "Ferro Fundido Asfaltado";
+rugosidade = "0.00012";
+
+material = "Aco Comercial";
+rugosidade = "0.000046";
+
+material = "Ferro Forjado";
+rugosidade = "0.0000015";
+
+material = "Trefilado";
+rugosidade = "0.0000015";
